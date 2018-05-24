@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.24)  11 MAY 2018 15:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.21)  23 MAY 2018 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2961,15 +2961,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1275.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1275.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1275.
 
+Package rerunfilecheck Info: File `beigepaper.out' has not changed.
+(rerunfilecheck)             Checksum: 8E56EC254E342A4D45A94D5C35FD8223;4921.
 
-
-Package rerunfilecheck Warning: File `beigepaper.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `beigepaper.out':
-(rerunfilecheck)             Before: 996974BCDC894209936075B0643AC238;4878
-(rerunfilecheck)             After:  8E56EC254E342A4D45A94D5C35FD8223;4921.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -2978,10 +2972,10 @@ Package logreq Info: Writing requests to 'beigepaper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 67532 strings out of 492990
- 1358705 string characters out of 6135005
- 2033835 words of memory out of 5000000
- 69597 multiletter control sequences out of 15000+600000
+ 67534 strings out of 492990
+ 1358728 string characters out of 6135005
+ 2033830 words of memory out of 5000000
+ 69599 multiletter control sequences out of 15000+600000
  563914 words of font info for 163 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  169i,15n,190p,10383b,4942s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3027,31 +3021,31 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc} </home/micah/.texli
-ve2017/texmf-var/fonts/pk/ljfour/public/concmath-fonts/xccsy10.600pk></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfbx0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-focc10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sform10.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sform6.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sform7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sform8.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sform9.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfosl10.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfoti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></u
-sr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts
-/type1/public/cm-super/sftt1000.pfb>
-Output written on beigepaper.pdf (25 pages, 467807 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc} </home/leon/.texliv
+e2017/texmf-var/fonts/pk/ljfour/public/concmath-fonts/xccsy10.600pk></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+fbx0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/sh
+are/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
+occ10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sform10.pfb></usr/share
+/texmf/fonts/type1/public/cm-super/sform6.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sform7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sform8.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sform9.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfosl10.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfoti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx0800.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sftt1000.pfb>
+Output written on beigepaper.pdf (25 pages, 467935 bytes).
 PDF statistics:
- 1118 PDF objects out of 1200 (max. 8388607)
- 1039 compressed objects within 11 object streams
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 1042 compressed objects within 11 object streams
  208 named destinations out of 1000 (max. 500000)
- 30349 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 30357 words of extra memory for PDF output out of 35830 (max. 10000000)
 

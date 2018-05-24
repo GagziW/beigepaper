@@ -273,7 +273,7 @@
 			\subsubsection{Merkle Patricia Trees} 
 	
 				
-	merkle patricia trees are modified merkletrees where nodes represent individual characters from hashes rather than each node representing an entire hash. This allows the state data structure itself to represent not only the intrinsically correct paths in the data, but also the requisite cryptographic proofs which go into making sure that a piece of data was valid in the first place. In other words, it keeps the blockchain valid by combining the structure of a standard merkletree with the structure of a Radix Tree. Since all searching and sorting algorithms in Ethereum must be filtered through this stringently correct database, accuracy of information is guaranteed. \par		
+	Merkle patricia trees are modified merkletrees where nodes represent individual characters from hashes rather than each node representing an entire hash. This allows the state data structure itself to represent not only the intrinsically correct paths in the data, but also the requisite cryptographic proofs which go into making sure that a piece of data was valid in the first place. In other words, it keeps the blockchain valid by combining the structure of a standard merkletree with the structure of a Radix Tree. Since all searching and sorting algorithms in Ethereum must be filtered through this stringently correct database, accuracy of information is guaranteed. \par		
 		\index{merkletrees}
 		\index{merkle-patricia trees}
 		\index{merkle-patricia tries}
@@ -559,8 +559,8 @@
 				\item \textbf{Gas Price} -- The number of Wei to pay the network for unit of gas.
 				\item \textbf{Gas Limit} -- The maximum amount of gas to be used in while executing a transaction.			
 				\item \textbf{To} -- The 20-character recipient of a message call.\footnote{In the case of a contract creation this is 0x000000000000000000.}
-				\item \textbf{Value} The number of Wei to be transferred to the recipient of a message call.\footnote{In the case of a contract creation, an endowment to the newly created contract account.}
-				\item \textbf{v, r, s} 
+				\item \textbf{Value} -- The number of Wei to be transferred to the recipient of a message call.\footnote{In the case of a contract creation, an endowment to the newly created contract account.}
+				\item \textbf{v, r, s} -- Values for the transaction's signature from which the public key can be derived.
 			\end{enumerate}
 			
 		\subsection{State Transition Function}
